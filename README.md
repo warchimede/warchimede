@@ -22,4 +22,4 @@ I am the Apple software architect [@francetv](https://github.com/francetv)
 | date | title | description | tags |
 |-|-|-|-|
 | 2024-10-08 | [How to remove bitcode from a framework](https://github.com/warchimede/blog/blob/main/posts/2024-10-08-how-to-remove-bitcode-from-framework.md) | Use `xcrun bitcode_strip` | `ios`, `xcode`, `command-line` |
-| 2024-09-21 | [How to remove unused simulator runtimes](https://github.com/warchimede/blog/blob/main/posts/2024-09-21-how-to-remove-unused-simulator-runtimes.md) | Use `xcrun simctl` to free some disk space | `ios`, `xcode`, `command-line` |
+| 2024-09-21 | [How to remove unused simulator runtimes](https://github.com/warchimede/blog/blob/main/posts/2024-09-21-how-to-remove-unused-simulator-runtimes.md) | Use `xcrun simctl` to free some disk space | `ios`, `xcode`, `command-line` |
