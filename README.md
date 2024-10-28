@@ -1,4 +1,4 @@
-# Hello there, my name is William 👋🏽
+# Hello there 👋🏽
 
 <!--
 **warchimede/warchimede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
